@@ -32,15 +32,17 @@ Stores information about music genres.
 
 **Project Files**
 
-DDL_Commands.sql: SQL script to create the necessary tables and define relationships.
-DML_Commands.sql: SQL script to insert sample data into the tables.
-Question1,2,3.sql: SQL script containing sample queries for data retrieval and analysis.
+1. DDL_Commands.sql: SQL script to create the necessary tables and define relationships.
+2. DML_Commands.sql: SQL script to insert sample data into the tables.
+3. Question1,2,3.sql: SQL script containing sample queries for data retrieval and analysis.
 
 
 **Getting Started**
 
-Execute the DDL_Commands.sql script to set up the database schema.
-Run the DML_Commands.sql script to populate the tables with sample data.
-Explore the Question1.sql, Question2.sql, and Question3.sql scripts for sample queries to retrieve information from the database.
+1. Execute the DDL_Commands.sql script to set up the database schema.
+2. Run the DML_Commands.sql script to populate the tables with sample data.
+3. Explore the Question1.sql, Question2.sql, and Question3.sql scripts for sample queries to retrieve information from the database.
+
+
 
 
